@@ -1,9 +1,9 @@
-def find_element_index(array, value_to_find)
+def find_element_index(arr, value_to_find)
  
- if array.include?(value_to_find) do
-   return array.index(value_to_find)
- elsif
-  return "nil"
-end
+  count = 0 
+  
+  while count < arr.length do
+  
+  end
  
 end
